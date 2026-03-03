@@ -2,6 +2,8 @@
 
 This board takes in 4-6v from USB, solar panel or other DC, and charges a lithium battery.
 
+![Photograph of board in use](figtree-irl.jpeg)
+
 It also delivers regulated 3.3v at up to 600mA.
 
 Basically it is an all in one "Run a microcontroller board off solar and/or battery" hack.
